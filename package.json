@@ -1,0 +1,24 @@
+{
+  "name": "introduction-node-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uahm93/introduction-node-ts.git"
+  },
+  "keywords": [
+    "node",
+    "TS"
+  ],
+  "author": "Ulises H. Mendoza <uahm93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uahm93/introduction-node-ts/issues"
+  },
+  "homepage": "https://github.com/uahm93/introduction-node-ts#readme"
+}
